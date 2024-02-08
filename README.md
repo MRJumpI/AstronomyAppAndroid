@@ -1,10 +1,26 @@
 # AstronomyAppAndroid
-My First Fully Working Astronomy App Built with Android Studio Java. App Using API's and Firebase
 
-> Output
-![ss1](https://github.com/MRJumpI/AstronomyAppAndroid/assets/111625687/6195558a-2a4e-4cd6-b0ec-5df85a439608)
-![sslg](https://github.com/MRJumpI/AstronomyAppAndroid/assets/111625687/21cface7-e955-4879-84af-6911180daf46)
-![ssWelcome](https://github.com/MRJumpI/AstronomyAppAndroid/assets/111625687/4aaed1c9-612c-4ab6-b1cc-fe55400da11e)
+Welcome to my Astronomy App for Android, where I embark on a journey of exploration, incorporating a delightful neumorphic theme in the UI and leveraging NASA APIs to provide various astronomical experiences.
 
-# Explore More.
-> Import project to your android or download Android App.  
+## Screenshots
+
+### Main Screen - Picture of the Day
+<img src="https://github.com/MRJumpI/AstronomyAppAndroid/assets/111625687/ss1-resized.png" alt="Main Screen - Picture of the Day" width="200" height="350">
+
+### Login Screen
+<img src="https://github.com/MRJumpI/AstronomyAppAndroid/assets/111625687/sslg-resized.png" alt="Login Screen" width="200" height="350">
+
+### Welcome Screen
+<img src="https://github.com/MRJumpI/AstronomyAppAndroid/assets/111625687/ssWelcome-resized.png" alt="Welcome Screen" width="200" height="350">
+
+## Features
+
+- **Picture of the Day**: Experience a stunning image of celestial wonders every day.
+- **Slider**: Dive into a captivating exploration of galaxies, black holes, and more.
+- **Play Games**: Engage in simple yet entertaining quiz games to test your astronomical knowledge.
+- **Search a Star**: Embark on a journey to discover and learn about various stars.
+- **News**: Stay updated with the latest astronomical news and discoveries.
+
+## Explore More
+
+Feel free to import the project into your Android Studio or download the Android app to embark on your own astronomical adventure!
