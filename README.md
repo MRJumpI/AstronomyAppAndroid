@@ -1,4 +1,4 @@
-# AstronomyAppAndroid
+# KwanBall - AstronomyAppAndroid
 
 Welcome to my Astronomy App for Android, where I embark on a journey of exploration, incorporating a delightful neumorphic theme in the UI and leveraging NASA APIs to provide various astronomical experiences.
 
